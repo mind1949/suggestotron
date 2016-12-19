@@ -5,4 +5,4 @@ Rails.application.routes.draw do
        post 'upvote'
      end
    en
-  endj
+  end
