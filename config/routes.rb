@@ -4,5 +4,5 @@ Rails.application.routes.draw do
      member do
        post 'upvote'
      end
-   en
+   end 
   end
